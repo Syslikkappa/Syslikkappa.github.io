@@ -9,7 +9,7 @@
 /* Тело страницы */
 
 body {
-  font-family: 'Montserrat', sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   color: #333;
   background: linear-gradient(to right, #ffa500, #ff4500);
